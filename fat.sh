@@ -1,0 +1,1 @@
+lipo -create opusdec_arm64 opusdec_x64 -output opusdec
